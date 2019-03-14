@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardlyDifficultTutorial", "HardlyDifficultTutorial\HardlyDifficultTutorial.csproj", "{D2A90D02-930A-4618-9ABA-0C3D30E9D386}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpNutShell", "CSharpNutShell\CSharpNutShell.csproj", "{726A8229-6BC4-4F2F-8F80-5CFC5801E0D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D2A90D02-930A-4618-9ABA-0C3D30E9D386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2A90D02-930A-4618-9ABA-0C3D30E9D386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2A90D02-930A-4618-9ABA-0C3D30E9D386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726A8229-6BC4-4F2F-8F80-5CFC5801E0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726A8229-6BC4-4F2F-8F80-5CFC5801E0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726A8229-6BC4-4F2F-8F80-5CFC5801E0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726A8229-6BC4-4F2F-8F80-5CFC5801E0D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
